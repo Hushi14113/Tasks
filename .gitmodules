@@ -1,3 +1,9 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = git@github.com:Hushi14113/Portfolio.git
+[submodule "Task4"]
+	path = Task4
+	url = git@github.com:Hushi14113/Task4.git
+[submodule "Quiz-Web-App"]
+	path = Quiz-Web-App
+	url = git@github.com:Hushi14113/Quiz-Web-App.git
